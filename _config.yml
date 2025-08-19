@@ -6,10 +6,10 @@ description: Welcome to my very own website
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 26 Korte Mare
+street_address: 141 Boerhaavelaan
 city: Leiden
 state: 
-zip_code: 2312NN
+zip_code: 2334 EH
 country: the Netherlands
 
 # homepage tiles
@@ -23,7 +23,7 @@ tiles-count: 4
 socials:
   GitHub: https://github.com/ErwanH29
   LinkedIn: https://www.linkedin.com/in/erwan-hochart/
-  Slack:
+  YouTube: https://www.youtube.com/@erwanh9312 
 
 # build settings
 markdown: kramdown
