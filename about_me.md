@@ -19,21 +19,9 @@ nav-menu: true
 <!-- Content -->
 <blockquote>"It's all a great mystery [...] Look up at the sky and you'll see how everything changes"</blockquote> - Antoine de Saint-Exupéry, <i>The Little Prince</i>
 <br><br><br>
-<p>Being inspired by the beauty of the world around us, I often daydreamed when I was younger. Though topics varied, the notion of time captivated my interest the most. How is it that we can remember the past but not the future? How do we, as a society, synchronise all our clocks? Questions like these often appeared growing up, and with it came a desire to understand nature ever more. Attempting to soothe my curiosity, I have completed an astronomy bachelor's program at Rijksuniversiteit Groningen and am on the course of obtaining a master's degree in physics, specialising in cosmology. </p>
-<p>I chose these programs as I felt they attempted to answer the deep questions of our nature. The ones we have been asking ourselves for millennia; Why are we here? How did the Universe come to be? Perhaps the beauty of these questions lies in the fact that we can never know the answer. Even so, there are many questions we can answer. Both the unanswerable and answerable deeply root themselves in what makes me who I am; a curious but driven student.</p> 
-<p>On this page, you will learn more about me personally. The other pages give an overview of my past projects and topics, which, I feel, bring a sense of magic to life. </p>
-
-<hr />
-<h2> Who Am I? </h2>
-<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture and the people. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. On the right you will see a picture taken of me with my older brother during our first year there. Since then, I've completed both my bachelor's and master's at Dutch universities. Below, you will see some of my interests:</p>
-<ul>
-	<li>Playing football.</li>
-	<li>Photography.</li>
-	<li>Bird watching.</li>
-	<li>Reading.</li>
-	<li>Scuba Diving.</li>
-	<li>Going to a museum.</li>
-</ul>
+<p>After growing up in China, I went to the Netherlands for my university studies. Between 2017 - 2020 I did my bachelor's in astronomy from Rijksuniversiteit Groningen, with the final project being under the supervison of Prof. Rien van de Weijgaert. Afterwards, I moved to Leiden pursuing a master's in physics (2020 - 2023). My first research project looked at modified gravity under the supervision of Prof. Alessandra Silvestri. The second looked at the possibility for a cluster of intermediate-mass black holes residing in galactic centers with Prof. Simon Portegies Zwart, who has also been my PhD supervisor since. <a href="assets/Erwan_Hochart_CV_2_0.pdf" download>Download full CV.</a></p>
+<p>Although a struggle in the beginning, I have seemingly followed a family tradition of being computationally inclined. The idea of translating mathematics into codes to decipher some of nature's greatest mysteries and study emergent phenomena is particularly enticing. In this sense, all my major projects have undertaken a computational approach while I refine skills by taking additional courses offered by Leiden University and spending time outside of work to enhance my knowledge - particularly in the domain of high-performance computing. </p>
+<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>Outside of work, I like to try and stay rooted to Earth. I especially like gardening and bird watching, but other hobbies include photography, reading and going to museums.</p>
 	
 <h2> Some Photos </h2>
 <span class="image fit"><img src="{% link assets/images/watertown.jpg %}" alt="" /></span>
@@ -60,7 +48,7 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/octopus.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/temple.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/buildings_pastel.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/colmar.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/observatory.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/leiden_pane.jpg %}" alt="" /></span></div>

@@ -23,26 +23,7 @@ nav-menu: true
 		<a class="image">
             <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="bottom" />
 		</a>
-	</section>	
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>The Milky Way and its Exotic Milisecond Pulsar Population</h3>
-				</header>
-                <b>Field</b>: Computational Astrophysics; Galactic Astronomy <br>
-                <b>Research</b>: Investigating the possibility of Milky Way millisecond pulsars originating from the Large Magellanic Cloud. <br>
-                <b>Purpose</b>: Millisecond pulsars are some of the most exotic celestial objects known in the Universe. The analysis aims to predict whether the asymmetrical kick velocity felt at birth may cause some of them to migrate between galactic systems and whether we should expect a surplus of its population lying on the outskirts of the Milky Way <br>
-				<ul class="actions">
-					<li><a href='https://github.com/ErwanH29/Team-B-Millisecond-Pulsars'><i>Link to GitHub</i></a></li>
-				</ul>
-			</div>
-		</div>
-		<a class="image">
-		<br><br>
-            <img src="{% link assets/images/msp.png %}" alt="" data-position="bottom" />
-		</a>
-	</section>		
+	</section>
 	<section>
 		<div class="content">
 			<div class="inner">
@@ -59,25 +40,6 @@ nav-menu: true
 		</div>
 		<a class="image">
             <img src="{% link assets/images/fish_school.png %}" alt="" data-position="bottom" />
-		</a>
-	</section>	
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Low-Frequency Radio Astronomy from the Moon</h3>
-				</header>
-                <b>Field</b>: Radio Astronomy <br>
-                <b>Research</b>: Investigating the scientific benefits of a Lunar radio interferometer. <br>
-                <b>Purpose</b>: With space agencies having their sights locked onto a Lunar base, the prospect of building a sensitive lunar interferometer becomes ever more enticing. With its ability to peer into the Dark Ages and possibly revolutionise cosmology, such an ambitious mission is worth to take a deeper look into. <br>
-				<ul class="actions">
-					<li><a href='https://www.linkedin.com/in/erwan-hochart/overlay/experience/1795929067/multiple-media-viewer/?profileId=ACoAADInhz4BJFEyZtfESN909ISsuUOcK5oPlho&treasuryMediaId=1635499510228'><i>Link to report</i></a></li>
-				</ul>
-			</div>
-		</div>
-		<a class="image">
-		<br><br>
-            <img src="{% link assets/images/lunar_astronomy.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 	<section>
@@ -130,7 +92,8 @@ nav-menu: true
                 <b>Research</b>: Investigating the origin of Jupiter Mass Binary Objects (JuMBOs). <br>
                 <b>Purpose</b>: The observation of a significant JuMBO population has stumped both dynamicists and theorists working on star formation. Here, we investigate what is the origin of such objects. <br>
 				<ul class="actions">
-					<li><a href='https://arxiv.org/pdf/2312.04645.pdf'><i>Link to paper;</i></a>
+					<li><a href='https://scipost.org/10.21468/SciPostAstro.3.1.001'><i>Link to paper I;</i></a>
+						<a href='https://www.nature.com/articles/s41550-025-02609-4'><i>Link to paper II;</i></a>
 					    <a href='https://exoplanets5.org/wp-content/uploads/1648-1.pdf'><i>Link to poster</i></a>
 					</li>
 				</ul>
