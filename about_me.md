@@ -2,10 +2,13 @@
 layout: page
 title: About Me
 description:
-image: "{{ site.baseurl }}/assets/images/about_me.jpg"
-show_tile: true
+image: assets/images/about_me.jpg
 nav-menu: true
 ---
+
+<!-- Main -->
+<div id="main" class="alt">
+
 <!-- One -->
 <section id="one">
 	<div class="inner">

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: Past Projects
 description: Click here to see some of my past research!
-image: "{{ site.baseurl }}/assets/images/past_projects.jpg"
-show_tile: true
+image: assets/images/past_projects.jpg
 nav-menu: true
 ---
 <section id="two" class="spotlights">

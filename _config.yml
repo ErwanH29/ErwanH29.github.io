@@ -3,8 +3,8 @@ title: Erwan Hochart
 subtitle: PhD Candidate | Computational Astrophysics
 email: ehochart@gmail.com
 description: Welcome to my very own website
-url: "https://erwanh29.github.io"
-baseurl: ""
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
 street_address: 141 Boerhaavelaan
 city: Leiden
