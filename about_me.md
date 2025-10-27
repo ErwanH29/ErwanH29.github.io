@@ -3,7 +3,6 @@ layout: page
 title: About Me
 description:
 image: /assets/images/about_me.jpg
-show_tile: true
 nav-menu: true
 ---
 
