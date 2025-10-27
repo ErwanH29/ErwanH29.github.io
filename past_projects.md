@@ -2,7 +2,7 @@
 layout: page
 title: Past Projects
 description: Click here to see some of my past research!
-image: /assets/images/past_projects.jpg
+image: assets/images/past_projects.jpg
 show_tile: true
 nav-menu: true
 ---
