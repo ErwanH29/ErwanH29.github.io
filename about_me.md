@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description:
-image: assets/images/about_me.png
+image: assets/images/about_me.jpg
 show_tile: true
 nav-menu: true
 ---
@@ -24,7 +24,7 @@ nav-menu: true
 <br><br><br>
 
 <p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>
-As you could have guessed, my name is Erwan. Although born in the suburbs of Paris, I spent the first four years of my life in Texas, before doing the rest of my school life in Beijing. For university, I completed an astronomy bachelor's program at Rijksuniversiteit Groningen and my master's in physics at Leiden University where I now work as PhD candidate under Simon Portegies Zwart, focusing on anything N-body dynamics related. <a href="assets/Erwan_Hochart_CV_2_0.pdf" download>My full CV can be found here. </a></p> Some of my interests include:
+As you could have guessed, my name is Erwan. Although born in the suburbs of Paris, I spent the first four years of my life in Texas, before doing the rest of my school life in Beijing. For university, I completed an astronomy bachelor's program at Rijksuniversiteit Groningen and my master's in physics at Leiden University where I now work as PhD candidate under Simon Portegies Zwart, focusing on anything N-body dynamics related. <a href="assets/Erwan_Hochart_CV.pdf" download>My full CV can be found here. </a></p> Some of my interests include:
 <ul>
 	<li>Playing football.</li>
 	<li>Photography.</li>
