@@ -3,6 +3,7 @@ layout: page
 title: About Me
 description:
 image: assets/images/about_me.jpg
+show_tile: true
 nav-menu: true
 ---
 
@@ -17,8 +18,8 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<blockquote>"It's all a great mystery [...] Look up at the sky and you'll see how everything changes"</p>
-- Antoine de Saint-Exupéry, <i>The Little Prince</i>
+<blockquote>"It's all a great mystery [...] Look up at the sky and you'll see how everything changes"
+- Antoine de Saint-Exupéry, The Little Prince
 </blockquote>
 
 <p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>
