@@ -67,4 +67,23 @@ nav-menu: true
             <img src="{% link assets/images/jumbo.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Nemesis: A Multi-Scale, Multi-Physics Algorithm for Astrophysics</h3>
+				</header>
+                <b>Field</b>: Computational Astrophysics <br>
+                <b>Research</b>: Creating an algorithm capable in handling the multi-scale and multi-physics nature of astronomy. <br>
+                <b>Purpose</b>: The large dynamical ranges and various physical regimes in astronomical environments makes analytical solutions few and far between, while also making computational codes expensive. Here, a new algorithm is developed in an attempt to optimise integration of dynamical systems embedded in environments. <br>
+				<ul class="actions">
+					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260303077H/abstract'><i>Link to paper;</i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+            <img src="{% link assets/images/LZK_nemesis.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>
 </section>
