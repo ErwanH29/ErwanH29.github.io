@@ -87,4 +87,24 @@ nav-menu: true
             <img src="{% link assets/images/LZK_nemesis.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Oort Cloud Ecology - IV. Exchanging Asteroids</h3>
+				</header>
+                <b>Field</b>: Computational Astrophysics; Planetary Systems <br>
+                <b>Research</b>: Studying the evolution of asteroids in star clusters. <br>
+                <b>Purpose</b>: The Vera C. Rubin Observatory is expected to increase our observations of Solar System asteroids by a factor of a few. At the same time, the asteroid population at the outer-edges of our Solar System possess information on our Sun's birth cluster. Here, we look at the impact of cluster morphology on such a population. <br>
+				<ul class="actions">
+					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260419413H/abstract'><i>Link to paper</i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+		<br><br>
+            <img src="{% link assets/images/LZK_nemesis.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>
 </section>
