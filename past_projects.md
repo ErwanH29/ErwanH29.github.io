@@ -104,7 +104,7 @@ nav-menu: true
 		</div>
 		<a class="image">
 		<br><br>
-            <img src="{% link assets/images/LZK_nemesis.png %}" alt="" data-position="bottom" />
+            <img src="{% link assets/images/Exch_Asts.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 </section>
