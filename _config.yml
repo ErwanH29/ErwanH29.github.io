@@ -16,6 +16,16 @@ country: the Netherlands
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about_me
+  - title: Projects
+    url: /past_projects
+  - title: Simulations
+    url: /simulations
+
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty

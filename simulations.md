@@ -2,7 +2,7 @@
 layout: page
 title: Simulations
 description: Movies made from some of my research.
-image: assets/images/simulations_banner.jpg
+image: assets/images/HCSC_snapshot.jpg
 nav-menu: true
 show_tile: true
 ---
@@ -20,7 +20,6 @@ show_tile: true
       interactions.
     </p>
 
-    <hr />
 
     <h2>Asteroids in Star Clusters</h2>
     <p>
@@ -61,7 +60,6 @@ show_tile: true
       </div>
     </div>
 
-    <hr />
 
     <h2>Capturing Planets</h2>
     <p>
@@ -78,7 +76,6 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
-    <hr />
 
     <h2>Nemesis in Action</h2>
     <p>
@@ -95,7 +92,6 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
-    <hr />
 
     <h2>Black Hole Systems</h2>
     <p>
