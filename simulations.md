@@ -22,10 +22,9 @@ show_tile: true
 
     <hr />
 
-    <h2>Star-Forming Regions</h2>
+    <h2>Asteroids in Star Clusters</h2>
     <p>
-      Comparing the evolution of asteroid populations in different stellar
-      cluster morphologies.
+      How do debris disks evolve in star clusters?
     </p>
 
     <div class="row">
@@ -41,8 +40,7 @@ show_tile: true
           </iframe>
         </div>
         <p>
-          <b>Fractal:</b> substructured star-forming region with embedded
-          asteroid populations.
+          <b>Fractal:</b> Substructured, sub-virial star-forming region hosting ~145 debris disks.
         </p>
       </div>
 
@@ -58,18 +56,16 @@ show_tile: true
           </iframe>
         </div>
         <p>
-          <b>Plummer:</b> smooth, virialised cluster used as a baseline for
-          comparison.
+          <b>Plummer:</b> Smooth, virialised cluster used as a comparison.
         </p>
       </div>
     </div>
 
     <hr />
 
-    <h2>Planetary Dynamics</h2>
+    <h2>Capturing Planets</h2>
     <p>
-      Dynamical encounters in dense stellar environments can reshape planetary
-      systems through capture, exchange, and ejection.
+      Do captured objects retain the encounters inclination?
     </p>
 
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
@@ -82,18 +78,11 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
-
-    <p>
-      Capture and exchange of planets during close stellar encounters in dense
-      clusters.
-    </p>
-
     <hr />
 
-    <h2>Multi-Scale Methods</h2>
+    <h2>Nemesis in Action</h2>
     <p>
-      Multi-scale algorithms allow hierarchical systems to be followed more
-      efficiently while still resolving close interactions.
+      How does the multi-scale, multi-physics algorithm Nemesis actually look in action?
     </p>
 
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
@@ -130,10 +119,6 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
-
-    <p>
-      Formation of hyper-compact stellar clusters following black hole recoil.
-    </p>
 
   </div>
 </section>
