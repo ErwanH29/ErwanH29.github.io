@@ -2,7 +2,7 @@
 layout: page
 title: Simulations
 description: Movies made from some of my research.
-image: assets/images/HCSC_snapshot.jpg
+image: assets/images/HCSC_snapshot.png
 nav-menu: true
 show_tile: true
 ---
@@ -19,7 +19,7 @@ show_tile: true
       planetary systems, black hole dynamics, and multi-scale gravitational
       interactions.
     </p>
-
+    <br><br>
 
     <h2>Asteroids in Star Clusters</h2>
     <p>
@@ -59,6 +59,7 @@ show_tile: true
         </p>
       </div>
     </div>
+    <br><br>
 
 
     <h2>Capturing Planets</h2>
@@ -76,6 +77,7 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
+    <br><br>
 
     <h2>Nemesis in Action</h2>
     <p>
@@ -92,6 +94,7 @@ show_tile: true
         allowfullscreen>
       </iframe>
     </div>
+    <br><br>
 
     <h2>Black Hole Systems</h2>
     <p>
