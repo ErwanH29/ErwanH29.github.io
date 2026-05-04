@@ -1,51 +1,62 @@
----
-layout: page
-title: Simulations
-description: Visualisations of some of my research in computational astrophysics
-image: assets/images/simulations_banner.jpg   # optional
-nav-menu: true
-show_tile: true
----
+<section id="one">
+  <div class="inner">
 
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/xbdC8BnZnyA"
-  title="Evolving a star-forming region with asteroids [Fractal]"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+    <header class="major">
+      <h1>Simulations & Visualisations</h1>
+    </header>
 
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/gMS_KZz5D0Q"
-  title="Evolving a star-forming region with asteroids [Plummer]"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+    <p>
+      A selection of numerical experiments exploring stellar clusters,
+      planetary systems, and multi-scale dynamics.
+    </p>
 
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/cycIn8hDZKY"
-  title="Capturing planets"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+    <h2>Star-Forming Regions</h2>
 
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/5vdK4-7W-H4"
-  title="Nemesis in Action"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+    <div class="row">
+      <div class="6u">
+        <iframe width="100%" height="300"
+          src="https://www.youtube.com/embed/xbdC8BnZnyA"
+          allowfullscreen></iframe>
+        <p><b>Fractal:</b> substructured star-forming region with asteroid populations.</p>
+      </div>
 
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/lxHVny-7ya8&t"
-  title="Formation of hyper-compact star clusters"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+      <div class="6u">
+        <iframe width="100%" height="300"
+          src="https://www.youtube.com/embed/gMS_KZz5D0Q"
+          allowfullscreen></iframe>
+        <p><b>Plummer:</b> smooth cluster evolution for comparison.</p>
+      </div>
+    </div>
 
+    <h2>Planetary Dynamics</h2>
 
+    <iframe width="100%" height="400"
+      src="https://www.youtube.com/embed/cycIn8hDZKY"
+      allowfullscreen></iframe>
+
+    <p>
+      Planet capture and exchange during close encounters in dense environments.
+    </p>
+
+    <h2>Multi-Scale Methods</h2>
+
+    <iframe width="100%" height="400"
+      src="https://www.youtube.com/embed/5vdK4-7W-H4"
+      allowfullscreen></iframe>
+
+    <p>
+      The Nemesis algorithm resolving interactions across multiple spatial scales.
+    </p>
+
+    <h2>Black Hole Systems</h2>
+
+    <iframe width="100%" height="400"
+      src="https://www.youtube.com/embed/lxHVny-7ya8"
+      allowfullscreen></iframe>
+
+    <p>
+      Formation of hyper-compact stellar clusters around recoiling black holes.
+    </p>
+
+  </div>
 </section>
