@@ -6,8 +6,7 @@
     </header>
 
     <p>
-      A selection of numerical experiments exploring stellar clusters,
-      planetary systems, and multi-scale dynamics.
+      A selection of movies extracted from my research.
     </p>
 
     <h2>Star-Forming Regions</h2>
