@@ -1,3 +1,12 @@
+---
+layout: page
+title: Simulations
+description: Visualisations of some of my research in computational astrophysics
+image: assets/images/simulations_banner.jpg   # optional
+nav-menu: true
+show_tile: true
+---
+
 <section id="one">
   <div class="inner">
 
