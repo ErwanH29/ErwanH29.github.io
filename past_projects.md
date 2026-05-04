@@ -103,7 +103,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br><br>
+		<br>
             <img src="{% link assets/images/Exch_Asts.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
