@@ -70,7 +70,7 @@ show_tile: true
 
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe
-        src="https://www.youtube.com/embed/lxHVny-7ya8"
+        src="https://www.youtube.com/embed/5vdK4-7W-H4"
         title="Capturing planets"
         style="position:absolute;top:0;left:0;width:100%;height:100%;"
         frameborder="0"
@@ -87,7 +87,7 @@ show_tile: true
 
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe
-        src="https://www.youtube.com/embed/cycIn8hDZKY"
+        src="https://www.youtube.com/embed/lxHVny-7ya8"
         title="Nemesis in Action"
         style="position:absolute;top:0;left:0;width:100%;height:100%;"
         frameborder="0"
@@ -106,12 +106,12 @@ show_tile: true
     <h2>Black Hole Systems</h2>
     <p>
       Recoiling black holes can carry bound stellar populations, producing
-      compact systems with distinctive dynamical signatures.
+      compact systems.
     </p>
 
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe
-        src="https://www.youtube.com/embed/5vdK4-7W-H4"
+        src="https://www.youtube.com/embed/cycIn8hDZKY"
         title="Formation of hyper-compact star clusters"
         style="position:absolute;top:0;left:0;width:100%;height:100%;"
         frameborder="0"
