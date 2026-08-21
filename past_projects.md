@@ -136,7 +136,7 @@ nav-menu: true
                 <b>Purpose</b>: Massive black holes often reside in the centers of galaxies. Upon galaxy-galaxy mergers, binaries will form which may eventually lead to their coalescence. Due to conservation of momentum, the remnant black hole experiences a kick, potentially ejecting it from the galactic center and carrying with it a compact stellar cluster. Here we look at the burst of observables emanating shortly after the birth of such a system. <br>
 				
 				<ul class="actions">
-					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260419413H/abstract'><i>Link to paper</i></a>
+					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260809662H/abstract'><i>Link to paper</i></a>
 					</li>
 				</ul>
 			
