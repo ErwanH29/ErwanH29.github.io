@@ -77,7 +77,7 @@ nav-menu: true
                 <b>Research</b>: Creating an algorithm capable in handling the multi-scale and multi-physics nature of astronomy. <br>
                 <b>Purpose</b>: The large dynamical ranges and various physical regimes in astronomical environments makes analytical solutions few and far between, while also making computational codes expensive. Here, a new algorithm is developed in an attempt to optimise integration of dynamical systems embedded in environments. <br>
 				<ul class="actions">
-					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260303077H/abstract'><i>Link to paper</i></a>
+					<li><a href='https://www.aanda.org/articles/aa/full_html/2026/05/aa58060-25/aa58060-25.html'><i>Link to paper</i></a>, <a href='https://ascl.net/2605.005'><i>Link to ASCL record</i></a>
 					</li>
 				</ul>
 			</div>
@@ -97,7 +97,7 @@ nav-menu: true
                 <b>Research</b>: Studying the evolution of asteroids in star clusters. <br>
                 <b>Purpose</b>: The Vera C. Rubin Observatory is expected to increase our observations of Solar System asteroids by a factor of a few. At the same time, the asteroid population at the outer-edges of our Solar System possess information on our Sun's birth cluster. Here, we look at the impact of cluster morphology on such a population. <br>
 				<ul class="actions">
-					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260419413H/abstract'><i>Link to paper</i></a>
+					<li><a href='https://www.aanda.org/articles/aa/full_html/2026/07/aa59424-26/aa59424-26.html'><i>Link to paper</i></a>
 					</li>
 				</ul>
 			</div>
@@ -105,6 +105,26 @@ nav-menu: true
 		<a class="image">
 		<br>
             <img src="{% link assets/images/Exchanging_Asteroids.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Recoiling Black Holes I. Burst of Observables </h3>
+				</header>
+                <b>Field</b>: Computational Astrophysics; Gravitational Waves <br>
+                <b>Research</b>: Studying the birth of hyper compact stellar clusters. <br>
+                <b>Purpose</b>: Massive black holes often reside in the centers of galaxies. Upon galaxy-galaxy mergers, binaries will form which may eventually lead to their coalescence. Due to conservation of momentum, the remnant black hole experiences a kick, potentially ejecting it from the galactic center and carrying with it a compact stellar cluster. Here we look at the burst of observables emanating shortly after the birth of such a system. <br>
+				<ul class="actions">
+					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260419413H/abstract'><i>Link to paper</i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+		<br>
+            <img src="{% link assets/images/RecoilBH.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 </section>
