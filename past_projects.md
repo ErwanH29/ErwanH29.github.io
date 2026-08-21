@@ -13,12 +13,15 @@ nav-menu: true
 				<header class="major">
 					<h3>Cosmic Web Classification: NEXUS+ vs. DisPerSE</h3>
 				</header>
+
                 <b>Field</b>: Computational Cosmology; Cosmic Web <br>
                 <b>Research</b>: Comparing two different algorithms investigating the cosmic web. <br>
                 <b>Purpose</b>: The cosmic web defines the structure of our Universe on the largest scales. Understanding how this structure emerges lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales and how it shapes our Universe. <br>
-                <ul class="actions">
+                
+				<ul class="actions">
 					<li><a href='https://fse.studenttheses.ub.rug.nl/22546/'><i>Link to thesis</i></a></li>
 				</ul>
+
 			</div>
 		</div>
 		<a class="image">
@@ -31,14 +34,17 @@ nav-menu: true
 				<header class="major">
 					<h3>The Steady State of Intermediate-Mass Black Holes Near a Supermassive Black Hole</h3>
 				</header>
+
                 <b>Field</b>: Computational Astrophysics; Gravitational Waves <br>
                 <b>Research</b>: Investigating the dynamics of a hypothetical intermediate mass black hole cluster. <br>
                 <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key, a cluster of which living in the galactic center can help growth through mergers. <br>
+				
 				<ul class="actions">
 					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to thesis;</i></a> 
 					    <a href='https://arxiv.org/abs/2312.05351'><i>Link to paper;</i></a>
 					    <a href='https://indico.nikhef.nl/event/4381/contributions/18701/'><i>Link to conference talk</i></a></li>
 				</ul>
+
 			</div>
 		</div>
 		<a class="image">
@@ -52,15 +58,18 @@ nav-menu: true
 				<header class="major">
 					<h3>The Origin and Evolution of Wide Jupiter Mass Binary Objects in Young Stellar Clusters</h3>
 				</header>
+				
                 <b>Field</b>: Computational Astrophysics; Planetary Systems <br>
                 <b>Research</b>: Investigating the origin of Jupiter Mass Binary Objects (JuMBOs). <br>
                 <b>Purpose</b>: The observation of a significant JuMBO population has stumped both dynamicists and theorists working on star formation. Here, we investigate what is the origin of such objects. <br>
+				
 				<ul class="actions">
 					<li><a href='https://scipost.org/10.21468/SciPostAstro.3.1.001'><i>Link to paper I;</i></a>
 						<a href='https://www.nature.com/articles/s41550-025-02609-4'><i>Link to paper II;</i></a>
 					    <a href='https://exoplanets5.org/wp-content/uploads/1648-1.pdf'><i>Link to poster</i></a>
 					</li>
 				</ul>
+
 			</div>
 		</div>
 		<a class="image">
@@ -73,13 +82,16 @@ nav-menu: true
 				<header class="major">
 					<h3>Nemesis: A Multi-Scale, Multi-Physics Algorithm for Astrophysics</h3>
 				</header>
+
                 <b>Field</b>: Computational Astrophysics <br>
                 <b>Research</b>: Creating an algorithm capable in handling the multi-scale and multi-physics nature of astronomy. <br>
                 <b>Purpose</b>: The large dynamical ranges and various physical regimes in astronomical environments makes analytical solutions few and far between, while also making computational codes expensive. Here, a new algorithm is developed in an attempt to optimise integration of dynamical systems embedded in environments. <br>
+				
 				<ul class="actions">
 					<li><a href='https://www.aanda.org/articles/aa/full_html/2026/05/aa58060-25/aa58060-25.html'><i>Link to paper</i></a>; <a href='https://ascl.net/2605.005'><i>Link to ASCL record</i></a>
 					</li>
 				</ul>
+
 			</div>
 		</div>
 		<a class="image">
@@ -93,13 +105,18 @@ nav-menu: true
 				<header class="major">
 					<h3>Oort Cloud Ecology - IV. Exchanging Asteroids</h3>
 				</header>
-                <b>Field</b>: Computational Astrophysics; Planetary Systems <br>
+                
+				<b>Field</b>: Computational Astrophysics; Planetary Systems <br>
                 <b>Research</b>: Studying the evolution of asteroids in star clusters. <br>
                 <b>Purpose</b>: The Vera C. Rubin Observatory is expected to increase our observations of Solar System asteroids by a factor of a few. At the same time, the asteroid population at the outer-edges of our Solar System possess information on our Sun's birth cluster. Here, we look at the impact of cluster morphology on such a population. <br>
+		
 				<ul class="actions">
-					<li><a href='https://www.aanda.org/articles/aa/full_html/2026/07/aa59424-26/aa59424-26.html'><i>Link to paper</i></a>; <li><a href='https://indico.kna-rnas.nl/event/2/contributions/262/'><i>Link to talk</i></a>
-					</li>
+				<li>
+					<a href="https://www.aanda.org/articles/aa/full_html/2026/07/aa59424-26/aa59424-26.html"><i>Link to paper;</i></a>
+					<a href="https://indico.kna-rnas.nl/event/2/contributions/262/"><i>Link to talk</i></a>
+				</li>
 				</ul>
+
 			</div>
 		</div>
 		<a class="image">
@@ -113,13 +130,16 @@ nav-menu: true
 				<header class="major">
 					<h3>Recoiling Black Holes I. Burst of Observables </h3>
 				</header>
-                <b>Field</b>: Computational Astrophysics; Gravitational Waves <br>
+                
+				<b>Field</b>: Computational Astrophysics; Gravitational Waves <br>
                 <b>Research</b>: Studying the birth of hyper compact stellar clusters. <br>
                 <b>Purpose</b>: Massive black holes often reside in the centers of galaxies. Upon galaxy-galaxy mergers, binaries will form which may eventually lead to their coalescence. Due to conservation of momentum, the remnant black hole experiences a kick, potentially ejecting it from the galactic center and carrying with it a compact stellar cluster. Here we look at the burst of observables emanating shortly after the birth of such a system. <br>
+				
 				<ul class="actions">
 					<li><a href='https://ui.adsabs.harvard.edu/abs/2026arXiv260419413H/abstract'><i>Link to paper</i></a>
 					</li>
 				</ul>
+			
 			</div>
 		</div>
 		<a class="image">
