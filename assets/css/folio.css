@@ -1,11 +1,11 @@
 :root {
   color-scheme: light;
   --ink: #171b1b;
-  --muted: #545e5b;
   --paper: #f8f8f4;
   --line: #aa91ca;
-  --night: #0e1313;
+  --muted: #4f3c64;
   --purple: #5746ee;
+  --night: #0e1313;
   --serif: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
 }
 * { box-sizing: border-box; }
